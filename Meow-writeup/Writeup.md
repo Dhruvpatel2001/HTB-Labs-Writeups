@@ -83,16 +83,17 @@ Retrieve flag: cat flag.txt
 
 
 🧠 Key Takeaways
-Telnet is insecure (plaintext communication)
-Default credentials are a major risk
-Basic enumeration can reveal critical vulnerabilities
+- Telnet is insecure (plaintext communication)
+- Default credentials are a major risk
+- Basic enumeration can reveal critical vulnerabilities
 
 🚀 Conclusion
+
 This machine highlights poor security practices: 
-Use of insecure services
-Lack of authentication controls
+- Use of insecure services
+- Lack of authentication controls
 
 🛠️ Tools Used
-Nmap
-Telnet
-OpenVPN
+- Nmap
+- Telnet
+- OpenVPN
